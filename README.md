@@ -5,6 +5,14 @@ Use the two buttons to move the paddle left and right to catch them.
 You have 30 seconds so, catch as many circles as you can before time runs out.
 Your score is shown on screen at the end of the round.
 
+Before you start here are some possible additions/improvements: 
+- Increasing difficulty (faster drop speed over time)
+- High score saved across resets
+- Sound effects via a buzzer
+- Multiple circles on screen at once
+- Different modes to the game, easy, medium, or hard
+- Customizable "circles"
+
 # Hardware: (Qty included)
 - ESP32 Dev Module	1
 - 1.3" OLED screen	1
