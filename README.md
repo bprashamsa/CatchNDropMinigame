@@ -38,13 +38,12 @@ Select the correct COM port under Tools > Port.
 Upload DropCatch.ino.
 
 
-Game Logic Overview
-Paddle: horizontal position updated based on button state, moving left/right within screen bounds.
-Circles: spawned at random x-positions at the top of the screen, fall at a fixed (or increasing) speed each frame.
-Collision detection: a circle is "caught" when its position overlaps the paddle's x-range at the paddle's y-position.
-Timer: a 30-second countdown starts when the game begins; game ends and final score displays when it hits zero.
-Score: increments by 1 for each circle caught; missed circles (reaching bottom of screen) don't penalize (unless you want to add that).
-
+# Game Logic Overview
+- Paddle: horizontal position updated based on button state, moving left/right within the screen bounds.
+- Circles: spawned at random x-positions at the top of the screen, fall at a fixed speed each frame.
+- Collision detection: a circle is "caught" when its position overlaps the paddle's x-range at the paddle's y-position.
+- Timer: a 30-second countdown starts when the game begins; game ends and final score displays when it hits zero.
+- Score: increments by 1 for each circle caught; missed circles (reaching bottom of screen).
 
 
 
