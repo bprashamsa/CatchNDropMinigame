@@ -1,6 +1,6 @@
 # How to Play
 
-Circles fall from the top of the screen at random horizontal positions.
+Circles continuously fall from the top of the screen at random horizontal positions.
 Use the two buttons to move the paddle left and right to catch them.
 You have 30 seconds so, catch as many circles as you can before time runs out.
 Your score is shown on screen at the end of the round.
