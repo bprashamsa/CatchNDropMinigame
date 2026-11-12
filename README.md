@@ -18,7 +18,7 @@ Before you start here are some possible additions/improvements:
 - 1.3" OLED screen | COUNT: 1
 - 6x6x5mm Tactile Push Buttons | COUNT: 2
 - Male-to-Female Jumper Wires	COUNT: 6
-- Breadboard	1
+- Breadboard | COUNT: 1
   
 # Wiring:
 - OLED / Button Pin	ESP32 Pin
