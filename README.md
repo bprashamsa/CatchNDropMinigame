@@ -14,8 +14,8 @@ Before you start here are some possible additions/improvements:
 - Customizable "circles"
 
 # Hardware: (Qty included)
-- ESP32 Dev Module	1
-- 1.3" OLED screen	1
+- ESP32 Dev Module | COUNT: 1
+- 1.3" OLED screen | COUNT: 1
 - 6x6x5mm Tactile Push Buttons	2
 - Male-to-Female Jumper Wires	6
 - Breadboard	1
