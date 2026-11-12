@@ -16,8 +16,8 @@ Before you start here are some possible additions/improvements:
 # Hardware: (Qty included)
 - ESP32 Dev Module | COUNT: 1
 - 1.3" OLED screen | COUNT: 1
-- 6x6x5mm Tactile Push Buttons	2
-- Male-to-Female Jumper Wires	6
+- 6x6x5mm Tactile Push Buttons | COUNT: 2
+- Male-to-Female Jumper Wires	COUNT: 6
 - Breadboard	1
   
 # Wiring:
